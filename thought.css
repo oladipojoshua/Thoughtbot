@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+nav{
+    border-bottom: 1px solid gray;
+    color: white;
+    padding: 20px;
+}
+
+
+
+.link{
+    margin-left: 650px;
+    margin-top: -50px;
+    padding: 10px;
+}
+
+.link a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.link a:hover{
+    color: red;
+}
+
+.buttonhow{
+background-color: purple;
+color: white;
+padding: 10px;
+border: none;
+margin-left: 20px;
+}
+
+.fa-solid{
+    margin-left: 20px;
+}
+
+main{
+    padding: 50px;
+    text-align: center;
+}
+
+main h1{
+    
+    font-size: 45px;
+}
+
+main p{
+    font-size: 20px;
+
+}
+
+main p a:hover{
+    color: white;
+}
+
+.treat{
+font-size: 10px;
+color: goldenrod;
+padding: ;
+}
+
+.treatlinks{
+    
+}

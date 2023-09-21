@@ -1,0 +1,743 @@
+body{
+    background-color: rgb(41,41,44);
+    color: white;
+    font-family: "Calibre Web";
+}
+
+header{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#pic1{
+    cursor: pointer;
+}
+
+#spec{
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 520px;
+    cursor: pointer;
+}
+
+#spec:hover{
+    color: red;
+}
+
+#spec2{
+    position: absolute;
+    margin-top: -28px;
+    margin-left: 720px;
+    cursor: pointer;
+}
+
+#spec2:hover{
+    color: red;
+}
+
+#spec3{
+    position: absolute;
+    top: -1px;
+    left: 830px;
+    cursor: pointer;
+}
+
+#spec3:hover{
+    color: red;
+}
+
+#spec4{
+    position: absolute;
+    top: -1px;
+    left: 900px;
+    cursor: pointer;
+}
+
+#spec4:hover{
+    color: red;
+}
+
+
+#spec5{
+    position: absolute;
+    top: -1px;
+    left: 960px;
+    cursor: pointer;
+}
+
+#spec5:hover{
+    color: red;
+}
+
+#spec6{
+    position: absolute;
+    top: -1px;
+    left: 1010px;
+    cursor: pointer;
+}
+
+#spec6:hover{
+    color: red;
+}
+
+#spec7{
+    position: absolute;
+    top: 20px;
+    left: 1100px;
+    cursor: pointer;
+}
+
+#spec7:hover{
+    color: red;
+}
+
+#spec9{
+    position: absolute;
+    margin-left: 990px;
+    background-color: rgb(89,42,190);
+    color: white;
+    height: 45px;
+    width: 130px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+#spec9:hover{
+background-color: rebeccapurple;
+}
+
+.giant{
+    text-align: center;
+    font-size: 55px;
+    margin-top: 40px;
+}
+
+#write{
+    text-align: center;
+    font-size: 19px;
+    margin-top: -10px;
+}
+
+.th{
+    color: rgb(255,231,163);
+    
+}
+
+.th:hover{
+    color: white;
+}
+
+h2{
+    margin-left: 280px;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+h2:hover{
+    color: rgb(255,231,163);
+    
+}
+
+#sub{
+    margin-left: 280px;
+    font-size: 20px;
+}
+
+#name{
+    margin-left: 280px;
+    font-size: 20px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#dash{
+    margin-left: 390px;
+    margin-top: -41px;
+}
+
+#date{
+    margin-left: 420px;
+    margin-top: -38px;
+}
+
+h5{
+    font-size: 11px;
+    /* margin-top: -31px; */
+}
+
+#name2{
+    margin-left: 550px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#name3{
+    margin-left: 585px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#name4{
+    margin-left: 668px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#name5{
+    margin-left: 703px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#name:hover{
+    color: white;
+}
+
+#name2:hover{
+    color: white;
+}
+
+#name3:hover{
+    color: white;
+}
+
+#name4:hover{
+    color: white;
+}
+
+#name5:hover{
+    color: white;
+}
+
+#ken1{
+    margin-left: 280px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#ken1:hover{
+    color: white;
+}
+
+#ken2{
+    margin-left: 335px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#ken2:hover{
+    color: white;
+}
+
+#ken3{
+    margin-left: 440px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31.5px;
+}
+
+#ken3:hover{
+    color: white;
+}
+
+#ken4{
+    margin-left: 510px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31.5px;
+}
+
+#ken4:hover{
+    color: white;
+}
+
+#ken5{
+    margin-left: 570px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#ken5:hover{
+    color: white;
+}
+
+#ken6{
+    margin-left: 615px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#ken6:hover{
+    color: white;
+}
+
+#jor{
+    margin-left:620px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#jor:hover{
+    color: white;
+}
+
+#dash2{
+    margin-left: 467px;
+    margin-top: -41px;
+}
+
+#date2{
+    margin-left: 490px;
+    margin-top: -38px;
+}
+
+#lima{
+    margin-left: 367px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#lima:hover{
+    color: white;
+}
+
+#lima2{
+    margin-left: 430px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#lima2:hover{
+    color: white;
+}
+
+#lima3{
+    margin-left: 500px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31.5px;
+}
+
+#lima3:hover{
+    color: white;
+}
+
+#lima4{
+    margin-left: 530px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#lima4:hover{
+    color: white;
+}
+
+#dash3{
+    margin-left: 420px;
+    margin-top: -41px;
+}
+
+#date3{
+    margin-left: 440px;
+    margin-top: -38px;
+}
+
+#math2{
+    margin-left: 370px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#math2:hover{
+    color: white;
+}
+
+#math3{
+    margin-left: 405px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31.5px;
+}
+
+#math3:hover{
+    color: white;
+}
+
+#math4{
+    margin-left: 437px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31.5px;
+}
+
+#math4:hover{
+    color: white;
+}
+
+#math5{
+    margin-left: 460px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#math5:hover{
+    color: white;
+}
+
+#math6{
+    margin-left: 480px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#math6:hover{
+    color: white;
+}
+
+#math7{
+    margin-left: 505px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#math7:hover{
+    color: white;
+}
+
+#math8{
+    margin-left: 560px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#math8:hover{
+    color: white;
+}
+
+#math9{
+    margin-left: 640px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+    margin-top: -31px;
+}
+
+#math9:hover{
+    color: white;
+}
+
+#john1{
+    margin-left: 280px;
+    font-size: 20px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#john1:hover{
+    color: white;
+}
+
+#john2{
+    margin-left: 365px;
+    margin-top: -43.5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#john3{
+    margin-left: 405px;
+    margin-top: -43.5px;
+    font-size: 20px;
+    cursor: pointer;
+    color: rgb(255,231,163);
+}
+
+#john3:hover{
+    color: white;
+}
+
+#dash4{
+    margin-left: 520px;
+    margin-top: -40px;
+}
+
+#date4{
+    margin-left: 540px;
+    margin-top: -38px;
+}
+
+#dave2{
+    margin-left: 670px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#dave2:hover{
+    color: white;
+}
+
+#dave3{
+    margin-left: 710px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#dave3:hover{
+    color: white;
+}
+
+#dave4{
+    margin-left: 745px;
+    margin-top: -31.5px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#dave4:hover{
+    color: white;
+}
+
+#dave5{
+    margin-left: 810px;
+    margin-top: -31.5px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#dave5:hover{
+    color: white;
+}
+
+#dash7{
+    margin-left: 370px;
+    margin-top: -41px;
+}
+
+#date7{
+    margin-left: 400px;
+    margin-top: -38px;
+}
+
+#fre1{
+    margin-left: 550px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#fre1:hover{
+    color: white;
+}
+
+#fre2{
+    margin-left: 630px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#fre2:hover{
+    color: white;
+}
+
+#fre3{
+    margin-left: 670px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#fre3:hover{
+    color: white;
+}
+
+#fre4{
+    margin-left: 720px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#fre4:hover{
+    color: white;
+}
+
+#joe3{
+    margin-left: 590px;
+    margin-top: -32px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#joe3:hover{
+    color: white;
+}
+
+#joe4{
+    margin-left: 630px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#joe4:hover{
+    color: white;
+}
+
+#joe5{
+    margin-left: 660px;
+    margin-top: -31px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#joe5:hover{
+    color: white;
+}
+
+#joe6{
+    margin-left: 700px;
+    margin-top: -32px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#joe6:hover{
+    color: white;
+}
+
+#one{
+    margin-left: 450px;
+    font-size: 24px;
+}
+
+#two{
+    margin-left: 464px;
+    margin-top: -53px;
+    font-size: 24px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#two:hover{
+    color: white;
+}
+
+#three{
+    margin-left: 479px;
+    margin-top: -53px;
+    font-size: 24px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#three:hover{
+    color: white;
+}
+
+#four{
+    margin-left: 495px;
+    margin-top: -53px;
+    font-size: 24px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#four:hover{
+    color: white;
+}
+
+#five{
+    margin-left: 510px;
+    margin-top: -53px;
+    font-size: 24px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#five:hover{
+    color: white;
+}
+
+#dot{
+    margin-left:530px;
+    margin-top: -53px;
+    font-size: 24px;
+}
+
+#next{
+    margin-left: 550px;
+    margin-top: -53px;
+    font-size: 24px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#next:hover{
+    color: white;
+}
+
+#last{
+    margin-left: 620px;
+    margin-top: -53px;
+    font-size: 24px;
+    color: rgb(255,231,163);
+    cursor: pointer;
+}
+
+#last:hover{
+    color: white;
+}
+
+#lastlast{
+    border: 1px solid white;
+    height: 170px;
+    margin: 330px;
+    margin-top: 100px;
+}
+
+#sign{
+    font-size: 23px;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+#input{
+    height: 40px;
+    width: 450px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+#lastbutton{
+    height: 46px;
+    width: 140px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: -4px;
+    background-color: rgb(89,42,190);
+    color: white;
+    cursor: pointer;
+}
+
+#lastbutton:hover{
+    background-color: rebeccapurple;
+}
